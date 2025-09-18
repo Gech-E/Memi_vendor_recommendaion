@@ -1,0 +1,29 @@
+# Core ML and Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+scipy>=1.9.0
+
+# Recommendation System Libraries
+# surprise>=1.1.1  # Commented out due to Python 3.13 compatibility issues
+
+# Web Framework and API
+fastapi>=0.95.0
+uvicorn[standard]>=0.20.0
+pydantic>=1.10.0
+
+# Data Processing and Utilities
+python-multipart>=0.0.6
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+
+# Optional: For enhanced performance and features
+# numba>=0.56.0  # For JIT compilation
+# joblib>=1.2.0  # For parallel processing
+# matplotlib>=3.6.0  # For visualization
+# seaborn>=0.12.0  # For statistical visualization
+
+# Development and Testing (optional)
+# pytest>=7.0.0
+# pytest-asyncio>=0.21.0
+# httpx>=0.24.0  # For testing FastAPI endpoints

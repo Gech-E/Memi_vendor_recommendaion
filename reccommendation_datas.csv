@@ -1,0 +1,1001 @@
+product_id,vendor_id,category,price,historical_sales,stock_level,rate
+1,98,Book and stationary,11639.72,104.0,99,4.1
+2,12,Baby and kids,422837.19,225.0,117,5.0
+3,19,Fashion,396507.32,127.0,186,3.7
+4,44,Electrical appliance,2344488.59,133.0,146,3.8
+5,59,Electrical appliance,681593.93,114.0,101,4.3
+6,49,Cosmetics and skin care,126658.18,114.0,98,4.3
+7,61,Vehicles,287912.59,538.0,113,3.8
+8,17,Book and stationary,722974.81,104.0,53,4.1
+9,74,Construction material,17204.54,240.0,93,3.6
+10,57,Fashion,3295052.31,1000.0,176,4.2
+11,55,Agricultural inputs,521865.19,480.0,68,4.0
+12,47,Construction material,3706378.2,675.0,94,5.0
+13,12,Vehicles,797069.94,120.0,97,4.4
+14,62,Sports and outdoors,1137554.35,70.0,30,3.4
+15,80,Furniture,2480907.94,95.0,102,3.9
+16,88,Furniture,1045178.33,75.0,96,3.5
+17,83,Real estate,1213876.27,1000.0,170,3.6
+18,8,Electromechanical devices,345716.84,104.0,97,4.1
+19,95,Real estate,773169.07,135.0,143,4.7
+20,21,Real estate,183276.88,142.0,111,3.9
+21,81,Electromechanical devices,264311.43,55.0,82,3.1
+22,87,Book and stationary,8427768.39,85.0,57,3.7
+23,80,Real estate,131624.65,85.0,154,3.7
+24,70,Electrical appliance,521865.19,150.0,72,4.0
+25,72,Sports and outdoors,524501.49,95.0,50,3.9
+26,25,Fashion,277581.06,50.0,187,4.0
+27,82,Real estate,957040.9,112.0,38,3.5
+28,89,Real estate,1071513.98,1000.0,180,3.4
+29,12,Electronics,110334.42,120.0,171,4.4
+30,15,Construction material,515058.14,142.0,164,3.9
+31,59,Agricultural inputs,521865.19,975.0,53,4.0
+32,26,Electromechanical devices,1443848.86,80.0,110,3.6
+33,26,Electronics,576500.2,129.0,144,4.6
+34,47,Fashion,500566.05,255.0,200,3.7
+35,32,Baby and kids,1188909.46,170.0,116,3.7
+36,10,Electromechanical devices,292650.56,95.0,195,3.9
+37,16,Book and stationary,1742851.18,104.0,68,4.1
+38,71,Electrical appliance,106652.66,95.0,136,3.9
+39,17,Fashion,3677761.28,125.0,171,4.5
+40,23,Furniture,521865.19,95.0,105,4.0
+41,26,Furniture,34742.93,114.0,154,4.3
+42,85,Vehicles,270275.65,156.0,41,4.1
+43,86,Book and stationary,227987.87,105.0,118,3.4
+44,7,Baby and kids,267236.42,217.0,191,4.9
+45,14,Book and stationary,626229.39,193.0,25,4.0
+46,79,Book and stationary,2296194.03,255.0,35,3.7
+47,7,Machinery and equipment,331850.93,285.0,20,3.9
+48,9,Book and stationary,156776.05,114.0,106,4.3
+49,48,Vehicles,81648.59,104.0,189,4.1
+50,72,Furniture,219196.93,209.0,162,4.1
+51,59,Machinery and equipment,26062.76,114.0,99,4.3
+52,87,Automotive,149089.24,110.0,170,4.2
+53,93,Automotive,2859281.26,550.0,100,4.2
+54,82,Electrical appliance,128664.2,150.0,43,4.0
+55,95,Agricultural inputs,521865.19,114.0,131,4.0
+56,94,Electronics,70282.41,104.0,102,4.0
+57,39,Agricultural inputs,6303678.12,104.0,66,4.1
+58,99,Machinery and equipment,6965013.47,202.0,119,4.7
+59,18,Construction material,1073604.61,110.0,196,4.2
+60,59,Furniture,521865.19,142.0,129,4.0
+61,17,Furniture,754408.64,160.0,195,3.6
+62,14,Automotive,1401110.47,80.0,127,3.6
+63,31,Health and fitness,2937004.71,1000.0,12,4.6
+64,24,Fashion,521865.19,114.0,120,4.0
+65,99,Sports and outdoors,43106.7,125.0,198,4.5
+66,60,Real estate,1444747.37,104.0,32,4.1
+67,45,Health and fitness,521865.19,220.0,34,4.0
+68,98,Electrical appliance,521865.19,142.0,113,4.0
+69,3,Cosmetics and skin care,691654.88,200.0,18,4.0
+70,37,Book and stationary,1034492.29,268.0,129,3.8
+71,43,Fashion,521865.19,135.0,25,4.0
+72,40,Automotive,1148071.69,80.0,63,3.6
+73,90,Real estate,153232.91,110.0,190,4.0
+74,55,Automotive,414962.86,285.0,164,3.9
+75,87,Cosmetics and skin care,1581094.96,125.0,195,4.5
+76,39,Furniture,6319728.24,104.0,187,4.1
+77,15,Fashion,521865.19,142.0,164,4.0
+78,4,Vehicles,847007.67,156.0,151,4.1
+79,93,Health and fitness,1559716.67,112.0,27,3.5
+80,86,Real estate,8643937.34,114.0,70,4.3
+81,25,Electronics,161740.09,600.0,181,4.0
+82,13,Fashion,1137734.75,80.0,35,3.6
+83,82,Automotive,1400744.48,64.0,71,3.3
+84,33,Health and fitness,3881732.58,120.0,42,3.6
+85,16,Construction material,80361.29,180.0,53,4.4
+86,42,Baby and kids,108108.57,435.0,118,4.9
+87,66,Fashion,456833.06,209.0,66,4.0
+88,55,Construction material,779643.07,75.0,154,3.5
+89,99,Machinery and equipment,521865.19,165.0,149,4.0
+90,42,Agricultural inputs,961563.29,125.0,140,4.5
+91,34,Book and stationary,352526.18,150.0,33,5.0
+92,30,Baby and kids,826282.64,129.0,44,4.6
+93,13,Health and fitness,694930.22,104.0,117,4.1
+94,13,Book and stationary,6061844.26,171.0,90,4.3
+95,18,Book and stationary,567212.0,400.0,95,3.6
+96,32,Automotive,249041.51,600.0,121,4.4
+97,96,Health and fitness,521865.19,142.0,119,4.0
+98,99,Fashion,595840.31,75.0,163,3.0
+99,39,Automotive,41919.65,629.0,85,4.1
+100,46,Agricultural inputs,432147.35,135.0,159,4.7
+101,29,Fashion,380367.3,170.0,98,3.7
+102,62,Construction material,521865.19,142.0,72,4.0
+103,93,Fashion,2091464.16,600.0,80,4.0
+104,62,Book and stationary,136145.66,1000.0,110,4.5
+105,57,Fashion,876268.59,165.0,19,4.2
+106,16,Sports and outdoors,354411.7,150.0,60,4.0
+107,56,Vehicles,519978.38,75.0,32,3.5
+108,10,Book and stationary,521865.19,75.0,65,4.0
+109,30,Agricultural inputs,62232.86,104.0,68,4.1
+110,25,Electronics,589772.02,300.0,167,4.0
+111,84,Electronics,13707055.18,120.0,31,4.4
+112,5,Furniture,42824.04,110.0,36,4.2
+113,65,Sports and outdoors,405788.78,160.0,187,3.6
+114,94,Construction material,2385356.12,104.0,83,4.1
+115,49,Fashion,695529.62,900.0,39,4.0
+116,3,Automotive,1241648.42,300.0,110,3.2
+117,45,Fashion,12537.77,89.0,17,3.8
+118,14,Real estate,1085307.66,100.0,176,4.0
+119,30,Fashion,141134.37,95.0,36,3.9
+120,68,Baby and kids,704198.76,1000.0,149,4.2
+121,18,Book and stationary,423304.86,150.0,181,4.0
+122,62,Electrical appliance,13490543.87,990.0,25,4.2
+123,37,Baby and kids,1004542.71,156.0,125,4.1
+124,25,Book and stationary,373646.06,100.0,148,4.0
+125,48,Health and fitness,45956.97,314.0,39,4.1
+126,65,Fashion,530576.99,405.0,89,3.8
+127,53,Machinery and equipment,1520946.38,89.0,76,3.8
+128,79,Health and fitness,392060.78,100.0,189,4.0
+129,73,Machinery and equipment,207215.68,50.0,91,3.0
+130,15,Agricultural inputs,187422.37,89.0,25,3.8
+131,49,Real estate,987283.15,120.0,148,3.6
+132,88,Electromechanical devices,1382054.76,320.0,102,3.6
+133,68,Baby and kids,3408610.11,89.0,125,3.8
+134,12,Construction material,99458.94,193.0,88,3.3
+135,59,Baby and kids,973804.98,133.0,92,3.8
+136,37,Construction material,368591.43,104.0,25,4.1
+137,61,Automotive,521865.19,142.0,75,2.6
+138,43,Agricultural inputs,808340.6,1000.0,154,5.0
+139,70,Electrical appliance,815441.02,55.0,61,3.1
+140,39,Machinery and equipment,521865.19,142.0,163,4.0
+141,56,Agricultural inputs,90562.29,89.0,27,3.8
+142,63,Construction material,143671.24,209.0,167,4.1
+143,46,Real estate,4109460.91,990.0,42,4.2
+144,88,Furniture,317788.48,85.0,66,3.7
+145,11,Machinery and equipment,700130.2,150.0,48,3.0
+146,62,Cosmetics and skin care,2152196.42,937.0,109,4.5
+147,77,Automotive,886613.66,114.0,144,4.3
+148,98,Automotive,1004282.53,180.0,159,4.4
+149,25,Book and stationary,1692752.6,142.0,66,3.9
+150,71,Cosmetics and skin care,18490.35,165.0,57,4.2
+151,52,Vehicles,212155.5,50.0,101,3.0
+152,4,Agricultural inputs,893506.33,112.0,199,3.5
+153,59,Electromechanical devices,3546481.21,129.0,105,4.6
+154,72,Electrical appliance,488523.74,700.0,71,4.0
+155,20,Fashion,124607.65,1000.0,172,4.9
+156,93,Furniture,129685.94,150.0,26,3.5
+157,63,Automotive,1665759.62,150.0,30,5.0
+158,54,Cosmetics and skin care,319125.47,150.0,140,5.0
+159,74,Electrical appliance,437661.01,382.0,103,3.7
+160,98,Construction material,1112972.91,89.0,86,3.8
+161,57,Cosmetics and skin care,5697.11,129.0,180,4.6
+162,90,Machinery and equipment,8891010.49,85.0,131,3.7
+163,41,Electromechanical devices,147766.6,95.0,89,3.9
+164,3,Baby and kids,635968.65,240.0,188,3.6
+165,6,Electromechanical devices,34301.85,160.0,13,3.6
+166,5,Machinery and equipment,234729.33,156.0,130,4.1
+167,5,Automotive,2862002.38,142.0,130,3.9
+168,54,Health and fitness,24977.96,50.0,139,3.0
+169,47,Agricultural inputs,2395973.39,202.0,50,4.0
+170,87,Real estate,293448.04,420.0,17,4.8
+171,49,Fashion,918729.17,114.0,96,4.3
+172,9,Fashion,1186225.08,839.0,187,4.1
+173,99,Electronics,857805.15,525.0,184,3.5
+174,20,Book and stationary,120882.47,179.0,198,3.8
+175,61,Vehicles,521865.19,142.0,86,4.0
+176,35,Agricultural inputs,49398.03,343.0,66,4.3
+177,50,Agricultural inputs,925134.58,110.0,11,4.2
+178,82,Vehicles,5683528.04,1000.0,90,4.2
+179,62,Electronics,28662.32,125.0,26,4.5
+180,17,Construction material,141143.32,375.0,136,4.5
+181,88,Electronics,336831.16,1000.0,171,4.3
+182,3,Construction material,573786.2,133.0,194,3.8
+183,32,Book and stationary,1654094.77,700.0,77,4.8
+184,99,Book and stationary,352110.4,133.0,124,3.8
+185,13,Electrical appliance,275422.6,80.0,36,4.0
+186,89,Sports and outdoors,2314481.07,127.0,186,3.7
+187,73,Sports and outdoors,1194207.51,210.0,172,3.4
+188,68,Fashion,992981.15,1000.0,26,4.3
+189,14,Automotive,523752.0,150.0,24,4.0
+190,98,Fashion,1933279.45,129.0,57,4.6
+191,11,Furniture,165303.08,50.0,142,3.0
+192,56,Construction material,134720.64,104.0,143,4.1
+193,67,Book and stationary,1354782.5,142.0,77,3.9
+194,92,Electronics,38655.57,133.0,132,3.8
+195,29,Electromechanical devices,508016.53,75.0,178,3.5
+196,9,Fashion,275174.98,200.0,133,4.0
+197,67,Agricultural inputs,53710.72,80.0,59,3.6
+198,25,Electromechanical devices,109436.38,140.0,172,4.8
+199,98,Automotive,521865.19,142.0,21,4.0
+200,76,Furniture,2086387.97,875.0,112,4.5
+201,42,Electrical appliance,166136.17,55.0,183,3.1
+202,9,Health and fitness,2730709.71,180.0,64,4.4
+203,79,Machinery and equipment,486391.36,480.0,158,4.4
+204,40,Health and fitness,3158402.92,810.0,168,3.8
+205,25,Construction material,178664.06,95.0,127,3.9
+206,5,Vehicles,411179.7,75.0,47,3.5
+207,11,Vehicles,768907.08,270.0,69,3.8
+208,59,Electrical appliance,337977.4,343.0,121,4.3
+209,98,Agricultural inputs,1847855.29,680.0,106,3.7
+210,88,Electronics,521865.19,100.0,94,4.0
+211,79,Baby and kids,521865.19,142.0,11,4.0
+212,38,Automotive,1601837.41,225.0,102,3.5
+213,72,Sports and outdoors,341022.0,1000.0,56,4.2
+214,5,Automotive,193207.01,75.0,62,3.5
+215,48,Electromechanical devices,120616.22,129.0,11,3.3
+216,90,Fashion,1165223.2,120.0,188,4.0
+217,18,Vehicles,1967890.08,89.0,19,3.8
+218,70,Electromechanical devices,346698.5,630.0,159,4.8
+219,37,Book and stationary,521865.19,114.0,163,4.0
+220,60,Furniture,113449.14,360.0,83,3.6
+221,48,Machinery and equipment,87053.99,1000.0,107,3.6
+222,77,Agricultural inputs,521865.19,120.0,118,4.0
+223,28,Sports and outdoors,1073744.81,75.0,66,3.5
+224,69,Construction material,3595782.91,75.0,12,3.5
+225,77,Health and fitness,122895.59,55.0,115,3.1
+226,81,Construction material,110714.7,229.0,105,4.3
+227,40,Sports and outdoors,258354.0,1000.0,86,3.6
+228,45,Automotive,128529.24,1000.0,68,4.2
+229,96,Health and fitness,1274478.73,64.0,84,3.3
+230,62,Electrical appliance,143388.2,60.0,116,3.2
+231,93,Construction material,76305.11,180.0,116,4.4
+232,58,Fashion,547448.2,95.0,119,3.9
+233,67,Automotive,63896.56,340.0,113,3.7
+234,56,Electronics,29756.54,179.0,188,3.8
+235,40,Construction material,540303.26,810.0,47,3.8
+236,98,Sports and outdoors,521865.19,142.0,119,4.0
+237,40,Vehicles,1415394.85,209.0,65,4.1
+238,91,Fashion,54556.9,209.0,130,4.0
+239,77,Health and fitness,15351.82,80.0,12,3.6
+240,33,Automotive,284732.39,120.0,197,4.4
+241,6,Fashion,549570.18,70.0,161,3.4
+242,88,Sports and outdoors,924688.86,171.0,61,4.3
+243,19,Agricultural inputs,572646.31,343.0,93,4.3
+244,80,Machinery and equipment,90312.49,375.0,104,4.5
+245,40,Fashion,1289276.51,150.0,110,4.0
+246,92,Health and fitness,1867680.34,1000.0,162,4.6
+247,97,Automotive,72501.09,330.0,135,4.2
+248,59,Fashion,337219.99,120.0,81,4.0
+249,59,Health and fitness,293120.76,50.0,17,3.0
+250,48,Sports and outdoors,615735.26,89.0,180,3.8
+251,41,Vehicles,325336.18,314.0,76,4.1
+252,13,Fashion,399585.62,960.0,150,3.2
+253,45,Vehicles,1158600.41,80.0,16,3.6
+254,89,Fashion,83218.12,70.0,58,3.4
+255,53,Baby and kids,1337161.58,89.0,120,3.8
+256,42,Real estate,2450246.27,375.0,67,3.5
+257,100,Agricultural inputs,5133008.46,150.0,98,4.0
+258,63,Cosmetics and skin care,17764.35,540.0,53,4.4
+259,27,Electrical appliance,336262.54,210.0,129,3.4
+260,38,Book and stationary,23210.25,75.0,101,3.5
+261,60,Fashion,11469.02,64.0,104,4.0
+262,7,Furniture,521865.19,142.0,143,4.0
+263,5,Automotive,243110.73,145.0,32,4.9
+264,45,Machinery and equipment,693687.21,129.0,45,4.6
+265,58,Agricultural inputs,917301.54,156.0,135,4.1
+266,31,Automotive,2875807.14,95.0,84,4.0
+267,23,Vehicles,479682.95,114.0,53,4.3
+268,42,Electronics,35499651.09,104.0,150,4.1
+269,10,Machinery and equipment,700545.63,165.0,74,4.2
+270,32,Electromechanical devices,7016103.51,314.0,120,4.1
+271,53,Furniture,13369.66,165.0,133,4.2
+272,30,Furniture,3350463.64,129.0,69,3.3
+273,39,Real estate,337344.27,95.0,104,3.9
+274,31,Electronics,23800.91,313.0,181,4.1
+275,82,Vehicles,831359.56,179.0,92,3.8
+276,100,Electrical appliance,521865.19,105.0,16,4.0
+277,2,Construction material,1056085.68,150.0,178,4.0
+278,78,Furniture,521865.19,142.0,173,4.0
+279,77,Vehicles,47395.13,80.0,190,3.6
+280,93,Cosmetics and skin care,2027630.59,285.0,96,3.9
+281,12,Electrical appliance,521865.19,142.0,42,4.0
+282,39,Construction material,3366087.88,435.0,163,4.0
+283,66,Sports and outdoors,325226.67,85.0,13,3.7
+284,96,Electromechanical devices,218466.22,250.0,105,4.5
+285,13,Sports and outdoors,460736.26,1000.0,49,4.4
+286,46,Agricultural inputs,515447.67,127.0,49,3.7
+287,27,Machinery and equipment,163705.24,171.0,59,4.3
+288,17,Agricultural inputs,210142.87,285.0,120,3.9
+289,95,Health and fitness,70240.95,425.0,94,3.7
+290,98,Vehicles,521865.19,652.0,153,4.0
+291,60,Vehicles,1220126.49,114.0,77,4.3
+292,64,Health and fitness,360039.4,60.0,109,3.2
+293,88,Health and fitness,521865.19,95.0,70,4.0
+294,35,Construction material,334989.95,850.0,152,3.7
+295,70,Book and stationary,51674.67,95.0,119,4.0
+296,83,Electrical appliance,1083722.39,114.0,76,4.3
+297,30,Fashion,521865.19,156.0,74,4.0
+298,71,Agricultural inputs,311747.57,202.0,90,4.7
+299,74,Machinery and equipment,2831615.83,129.0,134,4.6
+300,96,Vehicles,521865.19,142.0,19,4.0
+301,98,Agricultural inputs,566433.91,150.0,81,4.0
+302,63,Agricultural inputs,416325.41,50.0,136,3.0
+303,28,Construction material,1266019.87,75.0,63,3.5
+304,60,Baby and kids,1595551.57,150.0,133,3.0
+305,79,Electrical appliance,657209.75,90.0,175,3.2
+306,94,Book and stationary,257670.79,135.0,148,4.7
+307,37,Electronics,899917.85,120.0,195,4.4
+308,93,Vehicles,521865.19,459.0,127,4.0
+309,22,Cosmetics and skin care,424668.9,778.0,164,4.6
+310,68,Construction material,296296.47,343.0,126,4.3
+311,20,Furniture,791951.46,100.0,175,4.0
+312,96,Agricultural inputs,468874.55,850.0,22,3.7
+313,100,Electrical appliance,521865.19,142.0,146,4.0
+314,68,Fashion,633487.91,270.0,184,4.7
+315,91,Agricultural inputs,58680.13,142.0,83,3.9
+316,64,Automotive,775855.03,180.0,38,4.4
+317,17,Machinery and equipment,133824.69,50.0,68,3.0
+318,12,Electrical appliance,467573.67,360.0,109,4.4
+319,22,Machinery and equipment,521865.19,85.0,101,4.0
+320,17,Automotive,521865.19,142.0,37,4.0
+321,10,Book and stationary,1347989.72,129.0,13,4.6
+322,65,Health and fitness,3427008.27,75.0,68,4.0
+323,22,Automotive,7330994.41,80.0,152,3.6
+324,90,Fashion,921615.95,1000.0,163,4.0
+325,82,Fashion,679107.49,150.0,115,4.0
+326,50,Furniture,89314.43,300.0,154,4.0
+327,14,Fashion,371407.49,125.0,153,4.5
+328,64,Baby and kids,521865.19,1000.0,121,4.0
+329,47,Book and stationary,521865.19,142.0,169,4.0
+330,29,Real estate,7319079.04,420.0,86,4.8
+331,76,Book and stationary,525408.99,280.0,106,4.8
+332,36,Automotive,118913.38,125.0,43,4.5
+333,99,Baby and kids,3477416.47,1000.0,167,3.8
+334,52,Furniture,1854106.03,80.0,51,3.6
+335,76,Furniture,2005652.97,1000.0,127,4.0
+336,7,Agricultural inputs,21824.85,100.0,35,4.0
+337,29,Real estate,8227612.53,300.0,106,4.0
+338,11,Electromechanical devices,191420.51,114.0,45,4.3
+339,33,Furniture,1421086.33,110.0,19,4.2
+340,6,Book and stationary,19495606.41,110.0,20,4.2
+341,79,Health and fitness,11217651.5,133.0,84,3.8
+342,32,Electronics,102094.77,770.0,149,3.4
+343,51,Book and stationary,50676.83,114.0,138,4.3
+344,75,Electromechanical devices,3781078.7,300.0,145,4.0
+345,58,Vehicles,547481.37,165.0,111,4.2
+346,87,Electronics,208705.16,165.0,194,4.2
+347,26,Electromechanical devices,521865.19,142.0,196,4.0
+348,98,Electromechanical devices,346514.74,145.0,78,4.9
+349,46,Fashion,1266776.71,85.0,134,3.7
+350,98,Book and stationary,489173.6,405.0,171,4.7
+351,29,Machinery and equipment,1307440.4,165.0,167,4.2
+352,4,Fashion,115635.81,225.0,151,4.0
+353,81,Electrical appliance,3747850.45,80.0,123,3.6
+354,99,Fashion,1259764.12,255.0,125,3.7
+355,13,Electromechanical devices,1166415.65,510.0,52,3.7
+356,39,Automotive,82743.03,55.0,80,3.1
+357,15,Cosmetics and skin care,5662910.98,160.0,88,3.6
+358,29,Electromechanical devices,433404.11,875.0,130,4.5
+359,29,Cosmetics and skin care,1318589.67,250.0,80,4.5
+360,75,Cosmetics and skin care,272600.68,85.0,153,3.7
+361,32,Baby and kids,654308.08,55.0,44,3.1
+362,2,Electromechanical devices,690859.0,114.0,76,4.3
+363,47,Electromechanical devices,6438.84,75.0,76,3.5
+364,78,Construction material,1059886.29,225.0,15,3.5
+365,84,Vehicles,8435944.09,142.0,164,3.9
+366,22,Fashion,994176.85,359.0,25,3.8
+367,75,Fashion,105180.97,160.0,14,3.6
+368,27,Electromechanical devices,1172844.26,85.0,52,3.7
+369,67,Health and fitness,2167794.38,255.0,132,3.7
+370,81,Baby and kids,954267.94,160.0,50,3.6
+371,56,Health and fitness,521865.19,142.0,81,4.0
+372,92,Electrical appliance,521865.19,142.0,80,4.0
+373,93,Cosmetics and skin care,305753.76,110.0,47,4.2
+374,21,Fashion,1260054.27,104.0,170,4.1
+375,47,Book and stationary,53600.52,595.0,42,3.7
+376,80,Cosmetics and skin care,253264.65,1000.0,20,3.8
+377,59,Agricultural inputs,4844791.34,135.0,31,4.7
+378,84,Book and stationary,5133472.56,187.0,61,4.5
+379,6,Electrical appliance,48183.86,1000.0,10,4.3
+380,19,Furniture,81054.71,110.0,189,3.1
+381,57,Electrical appliance,294804.92,104.0,100,4.1
+382,69,Construction material,1687711.92,85.0,57,3.7
+383,3,Cosmetics and skin care,521865.19,75.0,116,4.0
+384,1,Fashion,407496.27,133.0,25,3.8
+385,58,Fashion,217234.19,1000.0,37,4.5
+386,38,Automotive,3233083.91,120.0,60,4.4
+387,15,Cosmetics and skin care,35761.86,85.0,135,3.7
+388,34,Automotive,508291.78,100.0,185,4.0
+389,61,Machinery and equipment,245140.27,89.0,22,3.8
+390,35,Construction material,4011590.64,95.0,44,3.9
+391,64,Furniture,1084336.64,125.0,15,4.5
+392,25,Electrical appliance,183739.91,150.0,114,4.0
+393,24,Real estate,1591328.35,55.0,139,3.1
+394,12,Machinery and equipment,246904.46,209.0,41,4.1
+395,18,Book and stationary,1980766.73,290.0,118,4.9
+396,15,Electronics,310017.65,340.0,119,3.7
+397,80,Furniture,2152197.28,420.0,77,4.8
+398,27,Fashion,850962.15,114.0,34,4.3
+399,72,Electrical appliance,58863786.01,129.0,183,4.6
+400,60,Cosmetics and skin care,408667.03,120.0,22,4.4
+401,46,Electrical appliance,785671.02,419.0,36,4.1
+402,89,Agricultural inputs,215531.62,85.0,177,3.7
+403,17,Vehicles,444199.03,156.0,153,4.1
+404,93,Cosmetics and skin care,7686.7,156.0,62,4.1
+405,53,Sports and outdoors,889465.52,250.0,198,4.5
+406,8,Sports and outdoors,3316137.7,75.0,187,3.0
+407,79,Electrical appliance,802065.06,193.0,162,3.3
+408,27,Book and stationary,61648.72,209.0,84,4.1
+409,46,Cosmetics and skin care,132895.62,220.0,190,4.2
+410,50,Real estate,11553.13,160.0,140,3.6
+411,71,Vehicles,1921056.8,110.0,164,4.2
+412,3,Fashion,521865.19,142.0,116,1.0
+413,93,Electrical appliance,423766.18,285.0,116,3.9
+414,64,Vehicles,351299.23,202.0,88,4.7
+415,44,Real estate,4120934.65,210.0,144,4.8
+416,53,Furniture,502787.04,104.0,129,4.1
+417,24,Fashion,1488589.19,180.0,175,4.4
+418,60,Agricultural inputs,1004193.86,180.0,169,3.2
+419,3,Fashion,3399425.93,187.0,95,4.5
+420,20,Electronics,309067.34,270.0,187,4.7
+421,46,Agricultural inputs,7307581.99,150.0,92,3.5
+422,15,Electromechanical devices,22505.31,690.0,127,4.3
+423,25,Cosmetics and skin care,1601114.08,55.0,176,3.1
+424,94,Sports and outdoors,120580.23,80.0,117,3.6
+425,78,Book and stationary,211266.5,170.0,109,3.7
+426,71,Furniture,1039365.93,291.0,48,4.0
+427,17,Electronics,1026949.25,142.0,130,3.9
+428,84,Health and fitness,1098704.17,133.0,196,3.8
+429,100,Furniture,55312.99,345.0,72,4.3
+430,9,Electrical appliance,3888543.98,120.0,38,3.2
+431,38,Machinery and equipment,114580.09,1000.0,83,4.3
+432,48,Machinery and equipment,139954.04,80.0,140,3.6
+433,60,Fashion,1151809.92,140.0,119,4.0
+434,63,Fashion,287770.41,95.0,142,3.9
+435,86,Machinery and equipment,702493.38,180.0,54,4.4
+436,2,Book and stationary,17415.21,943.0,109,3.8
+437,88,Book and stationary,521865.19,114.0,110,4.0
+438,72,Sports and outdoors,613384.84,156.0,45,4.1
+439,11,Vehicles,205913.65,1000.0,128,5.0
+440,64,Sports and outdoors,521865.19,142.0,171,4.0
+441,77,Fashion,321511.18,95.0,45,3.9
+442,81,Furniture,418293.75,259.0,50,4.6
+443,72,Machinery and equipment,255035.11,200.0,177,4.0
+444,21,Machinery and equipment,28162.27,314.0,54,4.1
+445,18,Cosmetics and skin care,4838430.8,55.0,17,3.1
+446,94,Electromechanical devices,169686.47,95.0,155,4.0
+447,64,Agricultural inputs,317011.4,80.0,56,3.6
+448,82,Agricultural inputs,11917.8,89.0,92,3.8
+449,95,Real estate,4839311.53,156.0,108,4.1
+450,38,Agricultural inputs,219734.46,200.0,84,4.0
+451,32,Book and stationary,512827.2,120.0,127,4.4
+452,11,Cosmetics and skin care,521865.19,125.0,179,4.0
+453,45,Electromechanical devices,160418.88,95.0,135,3.9
+454,89,Vehicles,1876403.52,524.0,85,4.1
+455,33,Agricultural inputs,20090.69,150.0,67,3.0
+456,41,Agricultural inputs,1011029.81,330.0,190,4.2
+457,8,Agricultural inputs,4677915.91,125.0,113,4.5
+458,11,Construction material,185233.92,112.0,66,3.5
+459,86,Sports and outdoors,2369814.95,120.0,66,4.4
+460,51,Machinery and equipment,6926630.12,133.0,183,3.8
+461,88,Automotive,301865.62,127.0,33,3.7
+462,41,Electrical appliance,266654.09,810.0,156,4.7
+463,17,Automotive,114985.28,100.0,94,4.0
+464,76,Sports and outdoors,205953.31,240.0,62,4.4
+465,46,Health and fitness,130217.34,75.0,95,3.0
+466,32,Cosmetics and skin care,114844.39,127.0,174,3.7
+467,79,Furniture,2671773.24,240.0,59,4.4
+468,80,Cosmetics and skin care,135281.21,156.0,136,4.1
+469,54,Agricultural inputs,651988.94,95.0,81,3.9
+470,86,Agricultural inputs,468527.54,345.0,91,4.3
+471,92,Health and fitness,4185521.41,480.0,63,3.6
+472,20,Vehicles,207994.24,193.0,52,4.6
+473,33,Agricultural inputs,783653.37,190.0,66,3.9
+474,74,Agricultural inputs,1449319.3,80.0,119,3.6
+475,40,Electromechanical devices,4133455.97,240.0,200,3.6
+476,32,Agricultural inputs,203489.56,100.0,50,4.0
+477,97,Agricultural inputs,175108.54,449.0,125,3.8
+478,2,Machinery and equipment,89978.71,114.0,157,4.3
+479,97,Sports and outdoors,12666223.37,100.0,55,4.0
+480,33,Electronics,3529647.82,268.0,192,3.8
+481,77,Electronics,415275.7,110.0,98,4.2
+482,30,Vehicles,8017672.51,127.0,33,3.7
+483,33,Electromechanical devices,379725.88,110.0,38,4.2
+484,77,Agricultural inputs,1311412.96,110.0,159,4.2
+485,26,Sports and outdoors,449215.43,156.0,28,4.1
+486,22,Electrical appliance,803480.49,89.0,35,3.8
+487,66,Fashion,685320.69,85.0,78,3.7
+488,38,Fashion,233870.29,900.0,183,4.4
+489,90,Electrical appliance,2277861.92,114.0,129,4.3
+490,46,Construction material,1294880.05,75.0,128,3.5
+491,15,Automotive,2066861.62,629.0,80,3.8
+492,98,Automotive,715216.65,810.0,140,4.7
+493,44,Electromechanical devices,113566.65,125.0,193,4.5
+494,49,Automotive,521865.19,70.0,144,4.0
+495,75,Construction material,298392.69,450.0,193,4.0
+496,61,Electromechanical devices,763830.01,110.0,120,4.2
+497,67,Electrical appliance,1147472.25,125.0,71,4.5
+498,6,Machinery and equipment,756254.0,156.0,46,4.1
+499,9,Baby and kids,1746502.08,165.0,127,4.2
+500,6,Fashion,521865.19,142.0,151,4.0
+501,73,Vehicles,315763.8,1000.0,94,4.5
+502,95,Construction material,5066703.73,380.0,146,3.9
+503,32,Health and fitness,296453.21,100.0,73,4.0
+504,41,Book and stationary,733163.18,240.0,160,3.6
+505,76,Electrical appliance,247330.98,1000.0,126,3.9
+506,8,Health and fitness,161101.47,89.0,91,3.8
+507,72,Vehicles,2118643.61,142.0,184,3.9
+508,50,Health and fitness,47814779.59,100.0,147,4.0
+509,92,Construction material,257135.94,960.0,150,4.4
+510,62,Sports and outdoors,2738668.36,110.0,186,4.2
+511,84,Electromechanical devices,271341.39,733.0,75,3.4
+512,62,Machinery and equipment,435509.78,343.0,95,4.3
+513,7,Electronics,6177200.04,382.0,64,3.7
+514,75,Construction material,521865.19,142.0,76,1.9
+515,84,Construction material,59442.3,105.0,17,3.4
+516,80,Fashion,388171.3,104.0,72,4.1
+517,4,Agricultural inputs,1197185.62,125.0,78,4.5
+518,6,Health and fitness,886910.95,95.0,167,3.9
+519,58,Vehicles,759958.24,125.0,108,4.5
+520,22,Sports and outdoors,465653.92,300.0,134,4.0
+521,26,Electromechanical devices,1439505.26,150.0,27,3.0
+522,3,Vehicles,521865.19,142.0,52,1.8
+523,41,Agricultural inputs,521865.19,510.0,178,4.0
+524,60,Agricultural inputs,384454.75,80.0,181,3.6
+525,14,Fashion,1272892.21,575.0,108,4.3
+526,75,Electrical appliance,4133552.27,209.0,90,4.1
+527,82,Book and stationary,117283.63,300.0,127,4.0
+528,12,Book and stationary,521865.19,142.0,178,4.0
+529,87,Fashion,224393.73,120.0,88,4.0
+530,12,Machinery and equipment,364082.34,217.0,56,4.0
+531,13,Agricultural inputs,1058272.88,313.0,18,4.1
+532,25,Machinery and equipment,326160.83,104.0,136,4.1
+533,45,Sports and outdoors,2338865.19,1000.0,163,4.0
+534,19,Book and stationary,241130.55,60.0,184,3.2
+535,55,Furniture,246643.07,765.0,99,4.0
+536,100,Agricultural inputs,2143541.51,1000.0,77,3.4
+537,45,Electronics,140830.65,324.0,85,3.3
+538,8,Real estate,642674.49,90.0,134,3.2
+539,93,Fashion,36653.93,85.0,66,3.7
+540,53,Fashion,6779805.88,200.0,103,4.0
+541,55,Construction material,2702878.58,129.0,119,3.3
+542,32,Book and stationary,27375548.96,171.0,85,4.3
+543,51,Furniture,521865.19,156.0,122,4.0
+544,44,Cosmetics and skin care,521865.19,95.0,167,4.0
+545,82,Electrical appliance,1206187.11,150.0,96,5.0
+546,70,Fashion,111634.66,190.0,109,3.9
+547,18,Health and fitness,4718758.35,1000.0,38,4.4
+548,83,Furniture,84820.25,156.0,145,4.1
+549,22,Automotive,521865.19,135.0,111,4.0
+550,37,Electronics,521865.19,142.0,78,4.0
+551,96,Agricultural inputs,212655.82,1000.0,79,3.8
+552,56,Construction material,157280.05,95.0,16,3.9
+553,59,Electrical appliance,66671.07,96.0,129,3.3
+554,3,Sports and outdoors,8751307.33,471.0,61,4.1
+555,28,Automotive,979523.05,229.0,122,4.0
+556,74,Baby and kids,821060.28,300.0,130,4.0
+557,35,Cosmetics and skin care,4798177.08,202.0,162,4.7
+558,61,Sports and outdoors,649778.42,156.0,19,4.1
+559,93,Agricultural inputs,143915.23,129.0,30,4.6
+560,54,Health and fitness,34533.51,142.0,141,4.0
+561,63,Book and stationary,132245.31,105.0,178,3.4
+562,79,Baby and kids,4231738.25,255.0,42,3.7
+563,97,Agricultural inputs,67305.41,100.0,187,4.0
+564,7,Real estate,751398.08,80.0,162,3.6
+565,76,Cosmetics and skin care,2086268.69,120.0,29,3.2
+566,49,Electrical appliance,678756.18,750.0,110,3.0
+567,94,Automotive,804901.34,500.0,36,4.5
+568,85,Health and fitness,1182812.78,660.0,122,4.2
+569,31,Health and fitness,781461.61,104.0,64,4.1
+570,58,Vehicles,4943634.06,209.0,121,4.1
+571,61,Fashion,521865.19,85.0,69,4.0
+572,24,Sports and outdoors,634528.39,120.0,40,4.4
+573,20,Cosmetics and skin care,28930.14,55.0,122,3.1
+574,37,Agricultural inputs,19719.84,75.0,152,3.0
+575,4,Fashion,391403.18,665.0,28,3.9
+576,92,Book and stationary,999558.89,104.0,183,4.1
+577,20,Construction material,5106381.89,400.0,18,3.6
+578,60,Sports and outdoors,16679443.64,60.0,161,3.2
+579,24,Sports and outdoors,521865.19,229.0,78,4.0
+580,50,Fashion,1316844.12,179.0,36,3.8
+581,49,Book and stationary,562388.0,1000.0,144,4.3
+582,51,Automotive,44496.15,135.0,63,4.7
+583,96,Real estate,355380.77,60.0,113,3.2
+584,36,Sports and outdoors,3065021.45,104.0,111,4.0
+585,98,Real estate,521865.19,142.0,48,4.0
+586,100,Book and stationary,64247.54,120.0,171,4.4
+587,66,Construction material,1111297.12,85.0,30,3.7
+588,79,Fashion,977339.36,200.0,162,4.0
+589,34,Cosmetics and skin care,747758.38,720.0,53,4.4
+590,36,Electromechanical devices,521865.19,165.0,85,4.0
+591,6,Construction material,521865.19,210.0,151,4.0
+592,39,Machinery and equipment,1259177.84,1000.0,34,3.6
+593,42,Fashion,169026.68,104.0,15,4.1
+594,58,Furniture,875474.31,150.0,154,4.0
+595,12,Real estate,333003.17,1000.0,56,3.9
+596,3,Sports and outdoors,47531.56,459.0,116,4.3
+597,18,Agricultural inputs,190534.67,1000.0,51,4.1
+598,40,Furniture,42381.43,1000.0,143,3.5
+599,21,Construction material,1924429.85,187.0,137,4.5
+600,15,Vehicles,754517.74,114.0,79,4.0
+601,97,Cosmetics and skin care,259565.43,135.0,117,4.7
+602,99,Agricultural inputs,521865.19,142.0,178,4.0
+603,26,Vehicles,489914.6,95.0,141,3.9
+604,8,Health and fitness,51697.56,95.0,134,3.9
+605,100,Cosmetics and skin care,521865.19,125.0,52,4.0
+606,94,Electromechanical devices,5123156.35,80.0,35,3.6
+607,87,Fashion,162070.48,75.0,83,3.5
+608,42,Health and fitness,668526.91,314.0,200,4.1
+609,44,Baby and kids,1350269.74,259.0,180,3.3
+610,14,Vehicles,1071877.91,330.0,161,4.2
+611,78,Electrical appliance,17438477.94,495.0,121,4.2
+612,2,Sports and outdoors,75776.62,142.0,162,3.9
+613,37,Electrical appliance,88018.77,202.0,43,4.7
+614,69,Fashion,77681.18,129.0,116,4.6
+615,38,Book and stationary,283827.62,480.0,85,3.6
+616,41,Book and stationary,2301487.2,114.0,19,4.3
+617,62,Fashion,94126.8,125.0,115,4.5
+618,60,Electromechanical devices,521865.19,300.0,121,4.0
+619,14,Agricultural inputs,466349.21,133.0,152,3.8
+620,89,Agricultural inputs,83826.54,70.0,179,3.4
+621,84,Automotive,31982.53,85.0,53,3.7
+622,2,Book and stationary,521865.19,142.0,60,4.0
+623,70,Health and fitness,162953.46,125.0,105,4.5
+624,17,Electromechanical devices,343270.22,95.0,90,3.9
+625,89,Baby and kids,3332037.26,171.0,175,4.3
+626,28,Fashion,1466856.62,193.0,142,4.6
+627,66,Automotive,521865.19,142.0,126,2.5
+628,35,Automotive,816676.17,193.0,157,4.6
+629,5,Health and fitness,5268832.74,89.0,189,3.8
+630,65,Electrical appliance,7354891.29,330.0,46,4.2
+631,40,Vehicles,276064.82,209.0,21,4.1
+632,76,Baby and kids,1862504.5,160.0,116,3.6
+633,56,Fashion,3558796.74,810.0,153,3.8
+634,36,Furniture,46138.0,1000.0,178,4.7
+635,45,Fashion,205127.98,89.0,135,3.8
+636,23,Baby and kids,12360643.87,90.0,141,4.0
+637,47,Baby and kids,521865.19,142.0,125,4.0
+638,31,Electrical appliance,5467.48,80.0,86,3.6
+639,11,Automotive,369001.98,110.0,128,4.2
+640,10,Automotive,2390321.06,517.0,15,4.3
+641,67,Electrical appliance,446755.01,440.0,124,4.2
+642,14,Fashion,1293737.56,359.0,43,3.8
+643,80,Automotive,1807279.07,100.0,138,4.0
+644,74,Real estate,259780.89,810.0,26,3.8
+645,93,Furniture,202989.7,96.0,196,4.0
+646,10,Fashion,556911.41,95.0,117,3.9
+647,76,Sports and outdoors,577618.2,225.0,99,5.0
+648,94,Electrical appliance,479795.49,75.0,116,3.5
+649,1,Vehicles,510290.16,82.0,188,3.1
+650,5,Electromechanical devices,143944.17,135.0,172,4.7
+651,20,Fashion,1363315.78,165.0,19,4.2
+652,8,Vehicles,1086908.43,156.0,122,4.1
+653,43,Furniture,521865.19,89.0,175,4.0
+654,76,Sports and outdoors,246780.99,314.0,184,4.1
+655,1,Furniture,508703.09,200.0,102,4.0
+656,57,Furniture,198497.24,135.0,34,4.7
+657,64,Book and stationary,1150903.64,187.0,109,4.5
+658,84,Vehicles,400182.59,114.0,25,4.3
+659,28,Vehicles,570123.79,85.0,19,3.7
+660,37,Cosmetics and skin care,242543.42,314.0,51,4.1
+661,47,Fashion,521865.19,142.0,62,2.7
+662,76,Real estate,20424.24,129.0,53,4.6
+663,37,Furniture,521865.19,120.0,11,4.0
+664,49,Automotive,660246.23,997.0,45,3.9
+665,44,Electronics,854262.08,112.0,152,3.5
+666,56,Book and stationary,541289.35,133.0,91,3.8
+667,28,Book and stationary,610388.61,255.0,88,3.7
+668,79,Vehicles,1892738.08,95.0,107,3.9
+669,6,Book and stationary,861929.76,80.0,39,3.6
+670,61,Electronics,2108239.98,129.0,49,4.6
+671,20,Cosmetics and skin care,572170.76,285.0,115,3.9
+672,78,Automotive,281933.75,127.0,101,3.7
+673,2,Agricultural inputs,592025.09,540.0,89,4.4
+674,73,Automotive,126213.88,150.0,194,5.0
+675,37,Electrical appliance,250253.48,89.0,148,3.8
+676,20,Health and fitness,577438.35,95.0,41,3.9
+677,26,Book and stationary,566072.53,80.0,16,3.6
+678,29,Cosmetics and skin care,377139.97,229.0,104,4.3
+679,1,Book and stationary,521865.19,142.0,38,1.7
+680,35,Book and stationary,521865.19,100.0,163,4.0
+681,70,Cosmetics and skin care,1546249.08,89.0,73,3.8
+682,59,Real estate,5207110.97,229.0,103,4.3
+683,69,Furniture,858261.4,120.0,133,4.4
+684,33,Agricultural inputs,443384.56,560.0,74,4.8
+685,51,Vehicles,96805.18,637.0,27,3.7
+686,78,Vehicles,4147543.56,900.0,176,4.4
+687,12,Vehicles,641618.69,734.0,159,4.1
+688,20,Agricultural inputs,521865.19,142.0,140,4.0
+689,53,Book and stationary,302221.57,140.0,22,4.8
+690,88,Electronics,274593.1,104.0,42,4.1
+691,43,Electromechanical devices,1242206.88,229.0,133,4.3
+692,98,Sports and outdoors,95591.49,375.0,49,4.5
+693,89,Construction material,521865.19,171.0,36,4.0
+694,50,Automotive,3653841.68,75.0,46,3.5
+695,29,Book and stationary,260122.43,345.0,174,4.3
+696,57,Furniture,121079.56,165.0,119,4.2
+697,39,Fashion,21529.75,60.0,98,3.2
+698,95,Baby and kids,67702.55,1000.0,171,4.8
+699,56,Agricultural inputs,1322278.89,133.0,178,3.8
+700,43,Automotive,709994.7,1000.0,137,4.5
+701,50,Automotive,927715.46,179.0,199,3.8
+702,23,Fashion,27767.75,85.0,34,3.7
+703,44,Book and stationary,244330.37,150.0,58,4.0
+704,38,Automotive,3439749.51,450.0,151,5.0
+705,84,Machinery and equipment,383064.59,1000.0,46,5.0
+706,23,Book and stationary,65614.89,85.0,52,3.7
+707,45,Construction material,374219.01,129.0,94,4.6
+708,52,Machinery and equipment,139173.12,100.0,26,4.0
+709,80,Electrical appliance,729794.74,1000.0,31,5.0
+710,50,Vehicles,456259.98,388.0,85,4.6
+711,8,Vehicles,999434.6,209.0,128,4.1
+712,85,Real estate,71190.49,150.0,61,4.0
+713,1,Automotive,225691.69,804.0,172,4.3
+714,8,Sports and outdoors,2270819.9,110.0,129,4.0
+715,29,Machinery and equipment,521865.19,979.0,95,4.0
+716,96,Fashion,98256.04,104.0,158,4.1
+717,5,Sports and outdoors,596566.48,85.0,10,4.0
+718,86,Furniture,680167.76,85.0,10,3.7
+719,47,Cosmetics and skin care,212505.94,129.0,27,4.6
+720,34,Machinery and equipment,291370.43,104.0,175,4.1
+721,65,Cosmetics and skin care,984449.95,270.0,146,3.8
+722,55,Automotive,1582398.83,140.0,164,4.0
+723,90,Real estate,88980.05,1000.0,54,3.6
+724,43,Vehicles,764119.36,150.0,192,4.0
+725,74,Construction material,4273843.08,210.0,111,4.8
+726,30,Furniture,371818.8,150.0,92,3.5
+727,82,Fashion,87574.16,314.0,77,4.1
+728,17,Electrical appliance,81704.32,330.0,94,4.2
+729,26,Cosmetics and skin care,347629.95,259.0,22,4.6
+730,8,Electronics,2092292.59,156.0,199,4.1
+731,47,Electronics,416177.12,1000.0,48,4.2
+732,76,Machinery and equipment,587627.18,193.0,67,4.6
+733,91,Cosmetics and skin care,99258.96,80.0,110,3.6
+734,72,Fashion,1933179.18,180.0,137,4.4
+735,89,Cosmetics and skin care,79341.15,1000.0,172,3.3
+736,46,Electrical appliance,207576.51,100.0,56,4.0
+737,68,Sports and outdoors,1138101.74,95.0,158,3.9
+738,33,Construction material,521865.19,142.0,129,1.2
+739,1,Fashion,574319.84,250.0,60,4.5
+740,19,Book and stationary,93096.29,375.0,197,4.5
+741,31,Automotive,521865.19,142.0,54,2.3
+742,80,Furniture,521865.19,110.0,179,4.0
+743,14,Sports and outdoors,10414943.81,105.0,92,3.4
+744,53,Fashion,245319.87,89.0,71,3.8
+745,48,Vehicles,7017917.36,187.0,55,4.5
+746,69,Book and stationary,1067071.39,187.0,77,4.5
+747,90,Health and fitness,132961.05,1000.0,89,4.6
+748,62,Fashion,726661.76,165.0,51,4.2
+749,92,Fashion,280235.44,142.0,166,3.9
+750,66,Agricultural inputs,636179.63,75.0,136,3.0
+751,64,Electromechanical devices,151624.68,1000.0,190,4.4
+752,70,Vehicles,5583165.4,100.0,58,4.0
+753,63,Real estate,1772846.73,70.0,36,3.4
+754,73,Automotive,521865.19,360.0,52,4.0
+755,33,Fashion,5918964.95,675.0,103,4.7
+756,41,Furniture,494557.58,120.0,175,4.4
+757,89,Fashion,2295445.38,114.0,19,4.3
+758,48,Sports and outdoors,468574.73,125.0,62,4.5
+759,13,Electrical appliance,798772.45,400.0,61,3.0
+760,73,Vehicles,391539.56,1000.0,189,4.9
+761,77,Sports and outdoors,510401.03,240.0,158,3.6
+762,31,Construction material,521865.19,142.0,173,4.0
+763,75,Fashion,162008.2,89.0,104,3.8
+764,68,Electrical appliance,242412.72,89.0,162,3.8
+765,98,Furniture,521865.19,1000.0,95,4.0
+766,4,Health and fitness,624412.52,229.0,99,4.3
+767,19,Agricultural inputs,422578.91,255.0,128,3.7
+768,70,Construction material,2570340.15,127.0,20,3.7
+769,98,Book and stationary,1576436.5,300.0,103,5.0
+770,82,Electromechanical devices,329558.34,165.0,58,4.2
+771,13,Electromechanical devices,3515442.08,89.0,76,3.8
+772,23,Fashion,7345004.17,60.0,49,3.2
+773,83,Fashion,20625.03,60.0,171,3.2
+774,75,Health and fitness,1791269.47,105.0,191,3.4
+775,1,Fashion,156455.0,150.0,156,4.0
+776,88,Real estate,1470513.23,129.0,22,4.6
+777,54,Health and fitness,2834445.57,114.0,116,4.3
+778,71,Sports and outdoors,118718.58,129.0,165,4.6
+779,89,Baby and kids,27488.12,345.0,77,4.3
+780,85,Real estate,1549048.04,70.0,130,3.4
+781,15,Baby and kids,542044.69,165.0,60,4.2
+782,65,Cosmetics and skin care,36219.1,110.0,53,4.2
+783,76,Agricultural inputs,19664917.3,95.0,52,3.9
+784,71,Agricultural inputs,1128758.73,268.0,118,3.8
+785,15,Real estate,1208813.74,142.0,182,3.9
+786,21,Book and stationary,3432250.17,1000.0,83,3.2
+787,19,Furniture,185120.84,193.0,74,3.3
+788,60,Construction material,521865.19,1000.0,83,4.0
+789,93,Fashion,61145.84,70.0,12,3.4
+790,89,Fashion,177740.04,82.0,35,3.1
+791,33,Machinery and equipment,788975.07,80.0,77,3.6
+792,49,Vehicles,36390.86,110.0,151,4.2
+793,96,Fashion,170342.38,804.0,92,4.3
+794,35,Agricultural inputs,109984.98,112.0,90,3.5
+795,44,Electrical appliance,547511.29,1000.0,111,4.0
+796,90,Automotive,1047641.38,85.0,128,3.7
+797,11,Machinery and equipment,1346782.82,104.0,24,4.1
+798,99,Automotive,1979242.92,285.0,160,3.9
+799,72,Agricultural inputs,3464833.96,85.0,177,3.7
+800,78,Construction material,1100052.19,85.0,10,3.7
+801,74,Electronics,7504428.33,150.0,152,4.0
+802,66,Fashion,529269.9,95.0,145,3.9
+803,46,Real estate,341129.78,100.0,39,4.0
+804,9,Real estate,1100154.35,64.0,105,3.3
+805,3,Cosmetics and skin care,319778.3,133.0,40,3.8
+806,85,Automotive,7123053.78,142.0,90,3.9
+807,26,Furniture,2413226.51,55.0,160,3.1
+808,72,Health and fitness,1363297.86,240.0,176,3.6
+809,48,Automotive,538815.78,320.0,144,3.6
+810,66,Vehicles,240093.63,156.0,116,4.1
+811,70,Electromechanical devices,1266778.35,129.0,106,4.0
+812,28,Automotive,521865.19,142.0,107,4.0
+813,93,Vehicles,4419536.13,778.0,44,4.6
+814,26,Book and stationary,338928.67,95.0,61,3.9
+815,25,Book and stationary,699177.62,110.0,140,4.2
+816,12,Sports and outdoors,113051.46,150.0,132,4.0
+817,5,Agricultural inputs,1308614.36,450.0,175,4.0
+818,98,Construction material,223996.92,1000.0,49,3.9
+819,48,Real estate,1171555.82,240.0,188,4.4
+820,37,Sports and outdoors,1377926.24,209.0,93,4.1
+821,79,Health and fitness,521865.19,129.0,101,4.0
+822,44,Vehicles,82019.01,114.0,177,4.3
+823,100,Baby and kids,4403234.2,110.0,120,4.0
+824,15,Fashion,331555.82,210.0,160,4.0
+825,43,Sports and outdoors,619875.06,75.0,134,3.5
+826,48,Automotive,916389.51,85.0,83,3.7
+827,87,Health and fitness,521865.19,142.0,100,4.0
+828,70,Construction material,885581.0,314.0,78,4.1
+829,46,Electrical appliance,513338.01,680.0,122,3.7
+830,43,Fashion,168502.18,1000.0,141,3.0
+831,21,Machinery and equipment,78057.11,125.0,172,4.5
+832,23,Fashion,1097810.52,165.0,82,4.2
+833,80,Fashion,2401413.34,200.0,38,4.0
+834,47,Vehicles,578321.82,389.0,194,4.6
+835,15,Agricultural inputs,51446.72,160.0,162,3.6
+836,25,Health and fitness,90581.09,427.0,161,3.9
+837,36,Electronics,231379.49,313.0,129,4.1
+838,75,Health and fitness,521865.19,142.0,68,4.0
+839,51,Electrical appliance,305551.62,120.0,170,3.6
+840,15,Electromechanical devices,219070.01,540.0,185,4.4
+841,68,Furniture,35945.99,104.0,88,4.1
+842,21,Cosmetics and skin care,165210.02,114.0,22,4.3
+843,13,Construction material,69605.26,80.0,99,3.6
+844,86,Book and stationary,98246.04,1000.0,116,4.4
+845,19,Electrical appliance,529625.81,85.0,196,3.7
+846,34,Cosmetics and skin care,242377.98,104.0,108,4.1
+847,78,Sports and outdoors,5661739.18,225.0,98,5.0
+848,68,Electromechanical devices,2228869.49,180.0,68,4.4
+849,52,Book and stationary,177490.81,110.0,74,4.2
+850,27,Cosmetics and skin care,111834.26,135.0,85,4.0
+851,29,Machinery and equipment,3519969.57,127.0,195,3.7
+852,28,Automotive,5336410.18,330.0,131,4.2
+853,35,Vehicles,16459.0,120.0,112,3.6
+854,8,Real estate,508533.53,1000.0,80,3.8
+855,16,Vehicles,303210.49,140.0,78,4.8
+856,36,Electrical appliance,1171364.9,104.0,68,4.1
+857,30,Book and stationary,8153861.58,135.0,134,4.7
+858,18,Agricultural inputs,214039.2,95.0,67,3.9
+859,2,Agricultural inputs,20109.59,129.0,170,4.6
+860,49,Fashion,521865.19,142.0,112,2.3
+861,77,Furniture,3558843.19,1000.0,132,4.1
+862,4,Baby and kids,280508.79,100.0,181,4.0
+863,90,Construction material,153651.72,165.0,40,4.2
+864,89,Agricultural inputs,229603.89,95.0,114,3.9
+865,94,Agricultural inputs,1583753.23,193.0,110,3.3
+866,75,Vehicles,223755.36,150.0,141,4.0
+867,7,Fashion,521865.19,313.0,104,4.0
+868,95,Vehicles,461254.1,140.0,122,4.0
+869,74,Book and stationary,395114.38,50.0,196,3.0
+870,39,Book and stationary,1266716.26,210.0,129,4.8
+871,13,Construction material,215804.92,125.0,81,4.5
+872,31,Health and fitness,231913.6,575.0,129,4.3
+873,71,Automotive,1463592.04,104.0,121,4.1
+874,63,Furniture,100670.9,112.0,144,3.5
+875,56,Electromechanical devices,118145.21,150.0,99,5.0
+876,42,Furniture,66804.69,129.0,26,4.6
+877,61,Automotive,1580918.19,313.0,93,4.1
+878,42,Health and fitness,377809.19,314.0,100,4.1
+879,56,Agricultural inputs,61671.51,142.0,52,3.9
+880,36,Agricultural inputs,521865.19,171.0,189,4.0
+881,84,Vehicles,192275.93,100.0,101,4.0
+882,68,Machinery and equipment,119668.76,165.0,42,4.2
+883,7,Automotive,329879.32,550.0,114,4.2
+884,54,Construction material,521865.19,142.0,177,4.0
+885,1,Machinery and equipment,244643.35,150.0,22,3.5
+886,44,Fashion,1048643.83,313.0,48,4.1
+887,45,Vehicles,1316674.81,129.0,112,4.6
+888,47,Health and fitness,860191.18,120.0,83,4.4
+889,13,Book and stationary,2977538.39,804.0,122,4.3
+890,22,Electronics,153173.42,150.0,126,5.0
+891,21,Book and stationary,92503.13,125.0,11,4.5
+892,86,Electrical appliance,89818.84,85.0,187,3.7
+893,92,Book and stationary,356217.71,120.0,44,4.0
+894,9,Furniture,106876.58,100.0,171,4.0
+895,26,Book and stationary,552004.44,133.0,190,3.8
+896,9,Automotive,496571.44,750.0,178,4.0
+897,15,Health and fitness,2038775.53,110.0,42,4.2
+898,10,Furniture,684686.58,104.0,72,4.1
+899,88,Fashion,236989.76,50.0,199,3.0
+900,42,Health and fitness,521865.19,142.0,92,4.0
+901,72,Electronics,94344.57,180.0,105,4.4
+902,24,Real estate,521865.19,142.0,139,4.0
+903,80,Automotive,521865.19,142.0,195,4.0
+904,49,Sports and outdoors,537119.78,89.0,63,3.8
+905,26,Fashion,824553.78,100.0,167,4.0
+906,91,Vehicles,168371.98,290.0,91,4.9
+907,37,Vehicles,2490632.13,200.0,116,4.0
+908,68,Electronics,6805580.02,200.0,86,3.0
+909,50,Automotive,39974.05,580.0,16,4.9
+910,24,Baby and kids,71439.27,114.0,40,4.3
+911,19,Electrical appliance,471948.2,70.0,191,3.4
+912,100,Health and fitness,301092.72,127.0,88,3.7
+913,60,Electromechanical devices,7607298.01,80.0,59,3.6
+914,39,Construction material,615183.87,95.0,185,3.9
+915,74,Fashion,3572648.95,135.0,130,4.0
+916,89,Cosmetics and skin care,20461.78,82.0,198,3.1
+917,18,Electronics,1500417.9,89.0,190,3.8
+918,19,Agricultural inputs,151255.35,156.0,86,4.0
+919,36,Vehicles,147662.74,200.0,197,4.0
+920,74,Sports and outdoors,304815.81,120.0,37,3.6
+921,97,Machinery and equipment,52214.97,129.0,85,4.6
+922,55,Electromechanical devices,859562.04,95.0,69,3.9
+923,69,Machinery and equipment,588935.8,190.0,111,3.9
+924,47,Sports and outdoors,659533.72,110.0,53,4.2
+925,49,Agricultural inputs,521865.19,142.0,147,4.0
+926,99,Electrical appliance,4291612.39,85.0,75,3.7
+927,98,Fashion,256384.47,75.0,143,3.5
+928,33,Machinery and equipment,905303.89,150.0,164,5.0
+929,21,Furniture,686582.94,120.0,125,4.4
+930,81,Electromechanical devices,779510.75,179.0,35,3.8
+931,22,Furniture,797228.4,193.0,139,4.6
+932,48,Book and stationary,4807823.37,229.0,53,4.3
+933,37,Vehicles,222011.55,100.0,105,4.0
+934,15,Furniture,44864.23,225.0,22,3.5
+935,35,Fashion,155311.7,640.0,13,3.6
+936,92,Fashion,1377664.73,125.0,173,4.5
+937,71,Book and stationary,458169.4,240.0,10,4.0
+938,32,Sports and outdoors,219388.85,64.0,196,3.3
+939,11,Construction material,521865.19,142.0,159,4.0
+940,10,Fashion,616571.26,114.0,22,4.3
+941,73,Machinery and equipment,1163286.11,193.0,199,4.6
+942,78,Agricultural inputs,699980.73,114.0,104,4.3
+943,77,Electromechanical devices,302550.81,89.0,58,3.8
+944,57,Machinery and equipment,551260.04,156.0,12,4.1
+945,25,Book and stationary,546486.26,190.0,129,3.9
+946,2,Machinery and equipment,588037.15,110.0,36,4.2
+947,64,Construction material,74872.55,135.0,147,4.7
+948,35,Fashion,521865.19,142.0,120,4.0
+949,7,Vehicles,228457.46,839.0,127,4.1
+950,85,Health and fitness,2107320.74,100.0,189,4.0
+951,18,Construction material,540028.91,190.0,142,3.9
+952,67,Electrical appliance,1549152.91,95.0,116,3.9
+953,42,Automotive,281342.46,135.0,85,4.7
+954,39,Fashion,296982.72,171.0,122,4.3
+955,41,Fashion,4161461.4,89.0,110,3.8
+956,75,Electromechanical devices,851285.45,229.0,53,4.3
+957,24,Book and stationary,151482.93,255.0,101,3.7
+958,60,Electronics,1698849.23,55.0,198,3.1
+959,46,Fashion,198797.68,50.0,115,3.0
+960,19,Health and fitness,620665.28,114.0,65,4.0
+961,68,Fashion,6955282.12,142.0,177,3.9
+962,90,Real estate,51692.94,187.0,123,4.5
+963,42,Health and fitness,339872.94,110.0,62,4.2
+964,32,Cosmetics and skin care,816194.09,104.0,16,4.1
+965,39,Sports and outdoors,1393107.61,89.0,103,3.8
+966,36,Real estate,68744.3,114.0,15,4.3
+967,97,Automotive,44192.69,280.0,90,4.8
+968,36,Health and fitness,2271893.15,675.0,91,3.0
+969,3,Furniture,150148.14,95.0,84,3.9
+970,73,Health and fitness,141008.61,1000.0,183,4.7
+971,8,Agricultural inputs,4526114.98,70.0,131,3.4
+972,97,Construction material,491173.88,471.0,53,4.1
+973,70,Real estate,496012.96,1000.0,138,3.7
+974,41,Sports and outdoors,521865.19,142.0,16,4.0
+975,68,Electromechanical devices,521865.19,142.0,112,4.0
+976,13,Furniture,1219004.9,500.0,109,4.5
+977,49,Machinery and equipment,817638.66,104.0,30,4.1
+978,60,Vehicles,569797.88,96.0,87,3.3
+979,2,Health and fitness,371578.51,110.0,64,4.0
+980,60,Furniture,285363.91,104.0,192,4.1
+981,5,Book and stationary,1738833.57,170.0,77,3.7
+982,44,Automotive,357918.44,225.0,94,5.0
+983,27,Baby and kids,401879.85,114.0,103,4.3
+984,32,Electronics,979541.35,129.0,42,4.6
+985,21,Electrical appliance,604369.71,142.0,147,3.9
+986,8,Vehicles,5196074.98,120.0,196,4.0
+987,72,Vehicles,521865.19,142.0,183,4.0
+988,50,Fashion,693745.99,150.0,157,3.5
+989,67,Vehicles,153520.8,135.0,106,4.7
+990,44,Agricultural inputs,107674.73,127.0,72,3.7
+991,58,Sports and outdoors,222883.32,125.0,85,4.5
+992,3,Agricultural inputs,480229.37,105.0,156,3.4
+993,86,Furniture,513293.77,85.0,23,3.7
+994,70,Vehicles,45435.12,1000.0,76,3.7
+995,2,Book and stationary,196491.46,313.0,60,4.1
+996,87,Electronics,674571.08,96.0,198,4.0
+997,44,Automotive,118729.65,120.0,139,3.6
+998,2,Construction material,83102.01,95.0,65,3.9
+999,81,Agricultural inputs,521865.19,193.0,14,4.0
+1000,35,Electrical appliance,163604.93,220.0,12,3.1

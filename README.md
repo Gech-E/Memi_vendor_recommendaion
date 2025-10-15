@@ -220,11 +220,16 @@ The system evaluates performance using:
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 ## 👥 Authors
+Getachew Ekubay
+Mulaw G/michael
+Meron Kidane
+Atsbeha Tesfay
+Mikias Mengesha
+
 
 - **ML Engineer** - *Initial work* - [Your GitHub](https://github.com/yourusername)
 

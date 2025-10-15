@@ -231,7 +231,7 @@ Atsbeha Tesfay
 Mikias Mengesha
 
 
-- **ML Engineer** - *Initial work* - [Your GitHub](https://github.com/yourusername)
+- **ML Engineer** - *Initial work* - [Your GitHub(https://github.com/Gech-E)]
 
 ## 🙏 Acknowledgments
 
